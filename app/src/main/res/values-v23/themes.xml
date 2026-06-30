@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppKotlin" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#E65100</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#FFD180</item>
+        <item name="colorOnPrimaryContainer">#5D2100</item>
+        <item name="colorSecondary">#BF360C</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="colorTertiary">#4CAF50</item>
+        <item name="colorOnTertiary">#FFFFFF</item>
+        <item name="android:statusBarColor">#E65100</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27" xmlns:tools="http://schemas.android.com/tools">true</item>
+    </style>
+</resources>
